@@ -36,5 +36,16 @@ A aplicação simula um gerenciador de tarefas em console, permitindo cadastrar,
 ## ▶️ Como executar o projeto
 
 1. Clone o repositório:
-```bash
 git clone https://github.com/marcelofariadasilva/projeto-final-tec-programacao-I-CxVerso.git
+
+2. Abra o projeto em uma IDE Java (recomendado: IntelliJ IDEA)
+
+3. Aguarde o carregamento do projeto e das dependências do JDK
+
+4. Localize a classe principal:
+src/br/com/marcelofaria/tarefas/Main.java
+
+5. Execute a classe Main (Run → Run 'Main')
+
+A saída será exibida diretamente no console.
+
